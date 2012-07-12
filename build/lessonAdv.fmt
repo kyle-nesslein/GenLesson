@@ -1,0 +1,57 @@
+# Time Signature
+# Beats Beat-type
+# Numerator
+beats=4
+# Denominator
+beat_type=4
+
+strong_beats=0 64 128 192
+
+# Divisions (quarter note value)
+divisions=64
+
+# Key: 0=C, number of fifths, forwards or backwards
+key_fifths=0
+
+# Clef
+clef_sign=G
+clef_line=2
+
+# Maximum polyphony
+num_voices=1
+max_nchord_size=1
+# N-Chord size probability distribution as a list
+# First value is rest probability
+# Second value is probabilty for 1-chord, 3rd for 2-chord, etc
+nchord_size_p=0 5 
+
+# A list of possible note durations, expressed according to divisions
+note_duration=128 64 32 16
+
+# Probability of each note duration (out of 100)
+# may vary because of measure boundries...
+note_duration_p=5 10 10 10
+
+# A list of available pitches, in frets, strings, notes, or scales
+# pitch_rule=frets
+avail_frets=2 3 4 5
+avail_strings=1 2 3 4 5 6
+
+# Open strings configuration
+# Six string-fret pairs: pitch octave
+# Must be specified in this order, can have any number of strings!
+# Might need to fix isPlayable geometry for anything other than 6 strings.
+string_1=4 5
+string_2=11 4
+string_3=7 4
+string_4=2 4
+string_5=9 3
+string_6=4 3
+#string_7=10 2
+#string_8=5 2
+#string_9=0 2
+#string_10=7 1
+
+# Maximum and minimum # of measures to generate for a piece
+min_num_bars=12
+max_num_bars=20
