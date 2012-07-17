@@ -36,10 +36,10 @@ CMAKE_COMMAND = /usr/bin/cmake
 RM = /usr/bin/cmake -E remove -f
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/phobos/research/Websight/GenLesson/trunk
+CMAKE_SOURCE_DIR = /home/phobos/Musigen/GenLesson/trunk
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/phobos/research/Websight/GenLesson/build
+CMAKE_BINARY_DIR = /home/phobos/Musigen/GenLesson/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -66,14 +66,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/phobos/research/Websight/GenLesson/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/research/Websight/GenLesson/build/CMakeFiles /home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/progress.marks
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/research/Websight/GenLesson/build/CMakeFiles 0
+	cd /home/phobos/Musigen/GenLesson/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/Musigen/GenLesson/build/CMakeFiles /home/phobos/Musigen/GenLesson/build/src/CMakeFiles/progress.marks
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/Musigen/GenLesson/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
 .PHONY : clean
 
 # The main clean target
@@ -82,22 +82,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/phobos/research/Websight/GenLesson/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/phobos/Musigen/GenLesson/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/CMakeFiles/GenLesson.dir/rule:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/GenLesson.dir/rule
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/GenLesson.dir/rule
 .PHONY : src/CMakeFiles/GenLesson.dir/rule
 
 # Convenience name for target.
@@ -106,127 +106,127 @@ GenLesson: src/CMakeFiles/GenLesson.dir/rule
 
 # fast build rule for target.
 GenLesson/fast:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/build
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/build
 .PHONY : GenLesson/fast
 
 # target to build an object file
 GenLesson.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.o
 .PHONY : GenLesson.o
 
 # target to preprocess a source file
 GenLesson.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.i
 .PHONY : GenLesson.i
 
 # target to generate assembly for a file
 GenLesson.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/GenLesson.s
 .PHONY : GenLesson.s
 
 # target to build an object file
 LibWrapper.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.o
 .PHONY : LibWrapper.o
 
 # target to preprocess a source file
 LibWrapper.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.i
 .PHONY : LibWrapper.i
 
 # target to generate assembly for a file
 LibWrapper.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/LibWrapper.s
 .PHONY : LibWrapper.s
 
 # target to build an object file
 lesson.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.o
 .PHONY : lesson.o
 
 # target to preprocess a source file
 lesson.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.i
 .PHONY : lesson.i
 
 # target to generate assembly for a file
 lesson.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/lesson.s
 .PHONY : lesson.s
 
 # target to build an object file
 nchord.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.o
 .PHONY : nchord.o
 
 # target to preprocess a source file
 nchord.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.i
 .PHONY : nchord.i
 
 # target to generate assembly for a file
 nchord.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/nchord.s
 .PHONY : nchord.s
 
 # target to build an object file
 note.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.o
 .PHONY : note.o
 
 # target to preprocess a source file
 note.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.i
 .PHONY : note.i
 
 # target to generate assembly for a file
 note.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/note.s
 .PHONY : note.s
 
 # target to build an object file
 part.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.o
 .PHONY : part.o
 
 # target to preprocess a source file
 part.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.i
 .PHONY : part.i
 
 # target to generate assembly for a file
 part.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/part.s
 .PHONY : part.s
 
 # target to build an object file
 pitchset.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.o
 .PHONY : pitchset.o
 
 # target to preprocess a source file
 pitchset.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.i
 .PHONY : pitchset.i
 
 # target to generate assembly for a file
 pitchset.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/pitchset.s
 .PHONY : pitchset.s
 
 # target to build an object file
 voice.o:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.o
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.o
 .PHONY : voice.o
 
 # target to preprocess a source file
 voice.i:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.i
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.i
 .PHONY : voice.i
 
 # target to generate assembly for a file
 voice.s:
-	cd /home/phobos/research/Websight/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.s
+	cd /home/phobos/Musigen/GenLesson/build && $(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/voice.s
 .PHONY : voice.s
 
 # Help Target
@@ -273,6 +273,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/phobos/research/Websight/GenLesson/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/phobos/Musigen/GenLesson/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

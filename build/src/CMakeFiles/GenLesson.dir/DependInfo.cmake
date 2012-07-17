@@ -4,14 +4,14 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/phobos/research/Websight/GenLesson/trunk/src/GenLesson.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/GenLesson.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/LibWrapper.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/LibWrapper.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/lesson.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/lesson.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/nchord.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/nchord.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/note.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/note.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/part.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/part.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/pitchset.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/pitchset.o"
-  "/home/phobos/research/Websight/GenLesson/trunk/src/voice.cpp" "/home/phobos/research/Websight/GenLesson/build/src/CMakeFiles/GenLesson.dir/voice.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/GenLesson.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/GenLesson.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/LibWrapper.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/LibWrapper.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/lesson.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/lesson.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/nchord.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/nchord.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/note.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/note.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/part.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/part.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/pitchset.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/pitchset.o"
+  "/home/phobos/Musigen/GenLesson/trunk/src/voice.cpp" "/home/phobos/Musigen/GenLesson/build/src/CMakeFiles/GenLesson.dir/voice.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

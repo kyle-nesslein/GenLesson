@@ -44,10 +44,10 @@ CMAKE_COMMAND = /usr/bin/cmake
 RM = /usr/bin/cmake -E remove -f
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/phobos/research/Websight/GenLesson/trunk
+CMAKE_SOURCE_DIR = /home/phobos/Musigen/GenLesson/trunk
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/phobos/research/Websight/GenLesson/build
+CMAKE_BINARY_DIR = /home/phobos/Musigen/GenLesson/build
 
 #=============================================================================
 # Directory level rules for directory src
@@ -71,7 +71,7 @@ src/preinstall:
 src/CMakeFiles/GenLesson.dir/all:
 	$(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/depend
 	$(MAKE) -f src/CMakeFiles/GenLesson.dir/build.make src/CMakeFiles/GenLesson.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/phobos/research/Websight/GenLesson/build/CMakeFiles  1 2 3 4 5 6 7 8
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/phobos/Musigen/GenLesson/build/CMakeFiles  1 2 3 4 5 6 7 8
 	@echo "Built target GenLesson"
 .PHONY : src/CMakeFiles/GenLesson.dir/all
 
@@ -81,9 +81,9 @@ all: src/CMakeFiles/GenLesson.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/GenLesson.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/research/Websight/GenLesson/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/Musigen/GenLesson/build/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/GenLesson.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/research/Websight/GenLesson/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/phobos/Musigen/GenLesson/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/GenLesson.dir/rule
 
 # Convenience name for target.
