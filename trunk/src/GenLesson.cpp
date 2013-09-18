@@ -91,7 +91,9 @@ int main (int argc, char * argv[]) {
 	vector<NChord*>* measure = holder->getMeasure(2);
 	//cout << ((&measure)[0])->toString();
 	//cout << ((&measure)[0])->toString();
-	cout << "wnbd: " << holder->wnbd(measure);
+  
+  // Hey look, WNBM WORKS!!!
+	//cout << "wnbd: " << holder->wnbd(measure);
 
     return 0;
     

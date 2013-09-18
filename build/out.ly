@@ -1,5 +1,5 @@
 
-\version "2.12.3"
+\version "2.14.2"
 % automatically converted from out.xml
 
 \header {
@@ -8,23 +8,24 @@
     title = "(title)_A Lesson"
     }
 
-PartPOneVoiceOne =  \relative c'' {
-    \clef "treble" \key c \major \numericTimeSignature\time 4/4 c8 e8
-    g,,2 e'8 a'8 | % 2
-    g,,4 d'8 d'2 e,16 f16 | % 3
-    g'4 a,,8 d8 a'4 c4 | % 4
-    f,2 g'4 g,8 c16 a'16 | % 5
-    f,2 d4 f8 a,8 | % 6
-    f'4 g,4 d''2 | % 7
-    a,4 c2 c'8 d,8 | % 8
-    g'4 b,4 b4 a4 | % 9
-    g'4 g,4 a'8 g4 d8 | \barNumberCheck #10
-    g,16 c,4 a''4 b,8 d4 f,16 | % 11
-    g2 c,4 a'4 | % 12
-    g'8 g8 c,8 g4 e4 g,8 | % 13
-    a''8 g,16 g16 e4 b2 | % 14
-    a'4 f8 d4 d'4 f,8 | % 15
-    a,4 b'4 a4 e8 d8 }
+PartPOneVoiceOne =  \relative e' {
+    \clef "treble" \key c \major \numericTimeSignature\time 4/4 e2 g4 a16
+    d8 a,16 | % 2
+    c8 e'2 c,4 f8 | % 3
+    d16 b8 g'4 b,4 f'4 c16 | % 4
+    f4 b,8 g'4 c4 f,8 | % 5
+    b,16 g2 e'16 b'16 e4 c16 | % 6
+    g16 c4 g4 c,16 b'16 c4 c16 | % 7
+    g,2 c4 a''8 g,,16 g''16 | % 8
+    c,8 b8 b,8 a'8 a8 b,16 e8 c16 a8 | % 9
+    g''2 c,8 d,4 b'8 | \barNumberCheck #10
+    d4 a,4 b'4 c,8 g'16 e'16 | % 11
+    g,,2 g''4 c,16 g,8 e''16 | % 12
+    f,16 b,8 e'2 b16 g,16 g'16 c8 | % 13
+    a2 b,8 g'8 a4 | % 14
+    c,16 a16 c'4 a'16 d,,4 g,16 a''16 d,,16 b'8 | % 15
+    e16 g8 e,16 d'16 g4 c,16 g,4 c'16 e16 | % 16
+    g,,4 c'2 g4 }
 
 
 % The score definition

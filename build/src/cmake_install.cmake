@@ -1,4 +1,4 @@
-# Install script for directory: /home/phobos/Musigen/GenLesson/trunk/src
+# Install script for directory: /home/phobos/retest/GenLesson/trunk/src
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)

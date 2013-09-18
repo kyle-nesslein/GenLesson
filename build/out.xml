@@ -35,37 +35,7 @@
             </attributes>
             <note>
                 <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
+                    <step>E</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -77,7 +47,37 @@
                 <pitch>
                     <step>G</step>
                     <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>D</step>
+                    <alter>0</alter>
                     <octave>5</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -90,12 +90,22 @@
         <measure number="2">
             <note>
                 <pitch>
-                    <step>G</step>
+                    <step>C</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>128</duration>
+                <type>half</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -110,39 +120,9 @@
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>F</step>
                     <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>4</octave>
                 </pitch>
                 <duration>32</duration>
                 <type>eighth</type>
@@ -155,9 +135,9 @@
         <measure number="3">
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>D</step>
                     <alter>0</alter>
-                    <octave>3</octave>
+                    <octave>4</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -165,9 +145,9 @@
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>B</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>3</octave>
                 </pitch>
                 <duration>32</duration>
                 <type>eighth</type>
@@ -177,10 +157,20 @@
                 <pitch>
                     <step>G</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -189,73 +179,13 @@
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>E</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
                     <step>C</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -270,49 +200,9 @@
         <measure number="4">
             <note>
                 <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>E</step>
+                    <step>F</step>
                     <alter>0</alter>
                     <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
                 </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
@@ -322,6 +212,16 @@
                 <pitch>
                     <step>B</step>
                     <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
                 <duration>64</duration>
@@ -330,7 +230,17 @@
             </note>
             <note>
                 <pitch>
-                    <step>E</step>
+                    <step>C</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>F</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -345,19 +255,9 @@
         <measure number="5">
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>B</step>
                     <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>3</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -369,23 +269,33 @@
                     <alter>0</alter>
                     <octave>3</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
                 <duration>128</duration>
                 <type>half</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>G</step>
+                    <step>E</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
                     <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
@@ -395,7 +305,7 @@
             </note>
             <note>
                 <pitch>
-                    <step>G</step>
+                    <step>C</step>
                     <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
@@ -410,29 +320,19 @@
         <measure number="6">
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>G</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>C</step>
                     <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
                 </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
@@ -442,10 +342,50 @@
                 <pitch>
                     <step>G</step>
                     <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
-                <duration>128</duration>
-                <type>half</type>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -455,27 +395,17 @@
         <measure number="7">
             <note>
                 <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
                     <step>G</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>3</octave>
                 </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
+                <duration>128</duration>
+                <type>half</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>C</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -485,12 +415,32 @@
             </note>
             <note>
                 <pitch>
-                    <step>E</step>
+                    <step>A</step>
                     <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
-                <duration>128</duration>
-                <type>half</type>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -500,27 +450,7 @@
         <measure number="8">
             <note>
                 <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
+                    <step>C</step>
                     <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
@@ -530,9 +460,49 @@
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>B</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>4</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -544,33 +514,13 @@
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>32</duration>
+                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
                     <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -586,26 +536,6 @@
                 </pitch>
                 <duration>32</duration>
                 <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -617,55 +547,35 @@
                 <pitch>
                     <step>G</step>
                     <alter>0</alter>
-                    <octave>3</octave>
+                    <octave>5</octave>
                 </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
+                <duration>128</duration>
+                <type>half</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>C</step>
                     <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
+                <duration>32</duration>
+                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
                     <step>D</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -680,27 +590,7 @@
         <measure number="10">
             <note>
                 <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
+                    <step>D</step>
                     <alter>0</alter>
                     <octave>5</octave>
                 </pitch>
@@ -710,39 +600,39 @@
             </note>
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>A</step>
                     <alter>0</alter>
                     <octave>3</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>A</step>
+                    <step>B</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
                     <step>C</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>4</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -750,29 +640,9 @@
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
                     <step>E</step>
                     <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -785,9 +655,19 @@
         <measure number="11">
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>G</step>
                     <alter>0</alter>
                     <octave>3</octave>
+                </pitch>
+                <duration>128</duration>
+                <type>half</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
                 </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
@@ -805,9 +685,9 @@
             </note>
             <note>
                 <pitch>
-                    <step>B</step>
+                    <step>G</step>
                     <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>3</octave>
                 </pitch>
                 <duration>32</duration>
                 <type>eighth</type>
@@ -817,17 +697,7 @@
                 <pitch>
                     <step>E</step>
                     <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>128</duration>
-                <type>half</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -840,62 +710,12 @@
         <measure number="12">
             <note>
                 <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
+                    <step>F</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -912,10 +732,30 @@
                 <pitch>
                     <step>E</step>
                     <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>128</duration>
+                <type>half</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -924,18 +764,18 @@
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>A</step>
+                    <step>C</step>
                     <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>32</duration>
+                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -945,7 +785,7 @@
         <measure number="13">
             <note>
                 <pitch>
-                    <step>G</step>
+                    <step>A</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
@@ -955,52 +795,32 @@
             </note>
             <note>
                 <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
                     <step>B</step>
                     <alter>0</alter>
                     <octave>3</octave>
                 </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
+                <duration>32</duration>
+                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>D</step>
+                    <step>G</step>
                     <alter>0</alter>
-                    <octave>5</octave>
+                    <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -1010,97 +830,12 @@
         <measure number="14">
             <note>
                 <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>64</duration>
-                <type>quarter</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>F</step>
+                    <step>C</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>128</duration>
-                <type>half</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>G</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
                 <duration>16</duration>
                 <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <backup>
-                <duration>256</duration>
-            </backup>
-        </measure>
-        <measure number="15">
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>5</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>D</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>A</step>
-                    <alter>0</alter>
-                    <octave>3</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -1117,10 +852,60 @@
                 <pitch>
                     <step>C</step>
                     <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>D</step>
+                    <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>D</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
                 <voice>1</voice>
             </note>
             <note>
@@ -1129,15 +914,100 @@
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <backup>
+                <duration>256</duration>
+            </backup>
+        </measure>
+        <measure number="15">
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>32</duration>
+                <type>eighth</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <alter>0</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>D</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
                 <voice>1</voice>
             </note>
             <note>
                 <pitch>
-                    <step>F</step>
+                    <step>C</step>
                     <alter>0</alter>
-                    <octave>4</octave>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>0</alter>
+                    <octave>3</octave>
+                </pitch>
+                <duration>64</duration>
+                <type>quarter</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>16</duration>
+                <type>16th</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
                 </pitch>
                 <duration>16</duration>
                 <type>16th</type>
@@ -1150,39 +1020,9 @@
         <measure number="16">
             <note>
                 <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>32</duration>
-                <type>eighth</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>C</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
-                </pitch>
-                <duration>16</duration>
-                <type>16th</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
+                    <step>G</step>
                     <alter>0</alter>
                     <octave>3</octave>
-                </pitch>
-                <duration>128</duration>
-                <type>half</type>
-                <voice>1</voice>
-            </note>
-            <note>
-                <pitch>
-                    <step>B</step>
-                    <alter>0</alter>
-                    <octave>4</octave>
                 </pitch>
                 <duration>64</duration>
                 <type>quarter</type>
@@ -1190,12 +1030,22 @@
             </note>
             <note>
                 <pitch>
-                    <step>A</step>
+                    <step>C</step>
+                    <alter>0</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>128</duration>
+                <type>half</type>
+                <voice>1</voice>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
                     <alter>0</alter>
                     <octave>4</octave>
                 </pitch>
-                <duration>16</duration>
-                <type>16th</type>
+                <duration>64</duration>
+                <type>quarter</type>
                 <voice>1</voice>
             </note>
             <backup>
@@ -1204,4 +1054,3 @@
         </measure>
     </part>
 </score-partwise>
-wnbd: 0.666667
